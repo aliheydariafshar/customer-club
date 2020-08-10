@@ -1,1 +1,1 @@
-this is customer club project
+This is a customer club project
